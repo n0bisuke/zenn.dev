@@ -10,15 +10,16 @@ published: true # 公開設定（falseにすると下書き）
 
 Qiitaで昔書いた記事がありますが、2021年になってだいぶ状況が変わってきたのでリライトしてみます。
 
-> [Node.jsから周辺のBLEデバイスを探すサンプル](https://qiita.com/n0bisuke/items/00503d2b18fc4f413c4e)
-
 ## noble
 
 Node.jsからBLEデバイスを扱う際にはマストと言っていいくらいよく使われていたモジュールです。
 
+
+> 参考: [Node.jsから周辺のBLEデバイスを探すサンプル](https://qiita.com/n0bisuke/items/00503d2b18fc4f413c4e)
+
 僕も2016年頃までは現役で使ってましたが、その頃から更新がされなくなり、macのOSアップデートがあった際に動作しなくなってしまっていました。
 
-> [最近のNode.jsでBluetooth事情 #iotlt #abandonware](https://speakerdeck.com/n0bisuke2/zui-jin-falsenode-dot-jsdebluetoothshi-qing-number-iotlt-number-abandonware)
+> 参考: [最近のNode.jsでBluetooth事情 #iotlt #abandonware](https://speakerdeck.com/n0bisuke2/zui-jin-falsenode-dot-jsdebluetoothshi-qing-number-iotlt-number-abandonware)
 
 ## アバンダンウェアプロジェクトのnoble
 
@@ -115,4 +116,4 @@ Node.jsでBLE制御ができるのはやはりやれることの可能性が広�
 
 こういったJavaScriptでドローン制御などもまたやれそうです。 
 
-> [ノンプログラマでもコピペでOK！JavaScriptを使ってDroneを飛ばそう](https://liginc.co.jp/187633)
+> 参考: [ノンプログラマでもコピペでOK！JavaScriptを使ってDroneを飛ばそう](https://liginc.co.jp/187633)
