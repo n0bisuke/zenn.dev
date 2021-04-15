@@ -10,7 +10,7 @@ published: true # 公開設定（falseにすると下書き）
 
 Qiitaで昔書いた記事がありますが、2021年になってだいぶ状況が変わってきたのでリライトしてみます。
 
-> [Node.jsから周辺のBLEデバイスを探すサンプル](https://qiita.com/n0bisuke/items/00503d2b18fc4f413c4e
+> [Node.jsから周辺のBLEデバイスを探すサンプル](https://qiita.com/n0bisuke/items/00503d2b18fc4f413c4e)
 
 ## noble
 
