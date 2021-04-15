@@ -20,7 +20,7 @@ Node.jsからBLEデバイスを扱う際にはマストと言っていいくら�
 
 > [最近のNode.jsでBluetooth事情 #iotlt #abandonware](https://speakerdeck.com/n0bisuke2/zui-jin-falsenode-dot-jsdebluetoothshi-qing-number-iotlt-number-abandonware)
 
-### アバンダンウェアプロジェクトのnoble
+## アバンダンウェアプロジェクトのnoble
 
 アバンダンウェアとは管理者がサポートしなくなったソフトウェアを指すらしいです。
 
