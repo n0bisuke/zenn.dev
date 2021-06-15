@@ -10,7 +10,9 @@ Punk IPAというクラフトビールがありますよね。APIもある模様
 
 注意ですが、 **この記事を読むとビールのIPAとAPIがゲシュタルト崩壊していきます。**
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">IPA飲みながらAPI叩かねば！</p>&mdash; ポキオ (@pokiiio) <a href="https://twitter.com/pokiiio/status/1404355279827857409?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+@[tweet](https://twitter.com/pokiiio/status/1404355279827857409?ref_src=twsrc%5Etfw)
+
+<!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">IPA飲みながらAPI叩かねば！</p>&mdash; ポキオ (@pokiiio) <a href="https://twitter.com/pokiiio/status/1404355279827857409?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 JavaScript初心者、APIやaxiosの利用が初めての人向け解説記事です。if文やfor文、配列やオブジェクトなどの基本構文についてはスキップして話をしています。[こちらのaxiosサンプル集](https://protoout.studio/posts/public-apis-api-get)で見つけたAPIを使ってみました。
 
