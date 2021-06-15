@@ -6,7 +6,7 @@ topics: ["javaScript","Node.js","PUNKAPI","Beer","axios"] # タグ。["markdown"
 published: true # 公開設定（falseにすると下書き）
 ---
 
-Punk IPAというクラフトビールがありますよね。APIもある模様ですよ笑
+Punk IPAというクラフトビールがありますよね。APIもある模様ですね！
 
 注意ですが、 **この記事を読むとビールのIPAとAPIがゲシュタルト崩壊していきます。**
 
