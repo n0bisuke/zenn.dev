@@ -10,7 +10,7 @@ Punk IPAというクラフトビールがありますよね。APIもある模様
 
 注意ですが、 **この記事を読むとビールのIPAとAPIがゲシュタルト崩壊していきます。**
 
-@[tweet](https://twitter.com/pokiiio/status/1404355279827857409?ref_src=twsrc%5Etfw)
+@[tweet](https://twitter.com/pokiiio/status/1404355279827857409)
 
 <!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">IPA飲みながらAPI叩かねば！</p>&mdash; ポキオ (@pokiiio) <a href="https://twitter.com/pokiiio/status/1404355279827857409?ref_src=twsrc%5Etfw">June 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
