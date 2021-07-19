@@ -21,3 +21,7 @@ published: true # 公開設定（falseにすると下書き）
 - [ハンドトラッキングでキラッ☆](https://twitter.com/reona396/status/1268133530627801089)
 - [顔ホッケー](https://note.com/mizumasa/n/n691a07b49390)
 - [遠隔人類補完計画](https://protopedia.net/prototype/d5e2c0adad503c91f91df240d0cd4e49)
+
+## その他
+
+こんなサービスあるよ！というコメント貰えると嬉しいです。
